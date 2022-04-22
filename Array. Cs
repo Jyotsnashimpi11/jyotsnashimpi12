@@ -1,0 +1,13 @@
+using System;
+class array
+{ 
+	static void main()
+	{
+	   int i;
+        int[]num={ 1,2,3,4,5};
+        for(i=0;i<5;i++)
+	{
+	 Console.WriteLine(num[i]);
+	}
+	}
+}
